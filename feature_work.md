@@ -1,4 +1,4 @@
-### code workflow - branch, tests, PR, QA, feedback
+### Code workflow - branch, tests, PR, QA, feedback
 
 * We do work in git branches - check out master/staging/production, pull latest, then create a new branch.
 * In your first commit, make sure a JIRA issue key is in the commit title - something like `"[AI-4267] Add codespans to scribe editor"` - that will automatically link the JIRA issue to the PR in the JIRA interface.
@@ -51,12 +51,6 @@ External dependencies are installed from the NPM registry and we use the followi
 * Translations in your Development Environment: https://zendesk.atlassian.net/wiki/x/txTPC
 * Adding a new string to Lotus: https://zendesk.atlassian.net/wiki/x/IAQYBQ
 * Check Translation Status: https://zendesk.atlassian.net/wiki/x/Z4K1C
-
-#### Testing IE
-
-* ask IT for a Sauce Labs account (https://saucelabs.com/)
-  * you'll also want Sauce Connect, which you need to run locally in order for Sauce Labs to have access to your test urls from your IP address.
-* install IE vms locally via https://dev.windows.com/en-us/microsoft-edge/tools/vms/mac/
 
 #### Open source
 
