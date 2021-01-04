@@ -13,6 +13,9 @@ This also applies to other teams whose PRs we are reviewing unless it is a narro
 listed in this document should always be checked:
 PR Checklist: https://docs.google.com/document/d/1PmrN-0SbuGv3J5RSzYW1-y-lFWeBGy1pU75Z29_u64I/edit
 
+#### Extra Approval Requirements
+* Extra scrutiny for channel switching changes: CC @bsmarason @lcruz @jducarroz @shajith for additional +1 on each PR (potentially after review/sign off from the team and dependencies). Block on an explicit +1 (let’s say, a PR comment) from one of these people before merging/deploying.
+
 This process only works if everyone on the team both follows and enforces it.
 That means PR owners should complete these steps, but PR reviewers should also
 double-check these are complete before approving a PR.
