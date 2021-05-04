@@ -6,11 +6,40 @@ Team repo for [team](https://github.com/orgs/zendesk/teams/hibiscus/members)
 * [Projects we contribute to are listed here](https://github.com/orgs/zendesk/teams/hibiscus/repositories)
 * [Our current work is tracked here](https://zendesk.atlassian.net/secure/RapidBoard.jspa)
 
-## Hibiscus Handbook
+
+# Hibiscus Handbook
+Based in San Francisco, we are one of the teams working Support UI, Agent workspace and own Support editor. Our top priority is to improve the overall Agent Experience.
 
 Everything is always a WIP. Please commit any changes you want, but cc Hibiscus on things you'd like people to see.
 
 Start with some basic things all Hibiscus devs should read and know about our team and process:
+
+## Team Members
+
+| Name              | Role              |
+| -------------     | ----------------- |
+| Amy Lee           | Product Manager   |
+| Nimisha Doongarwal| Team Lead         |
+| Jeff Michael      | Test Engineer     |
+| Deepti Buchi      | Software Engineer |
+| Will Slotterback  | Software Engineer |
+| Valentin Cekov    | Software Engineer |
+| Vinson Chen       | Software Engineer |
+
+
+## What are we working on?
+
+- [Jira Sprint Board](https://zendesk.atlassian.net/projects/HIB)
+- [Jira Backlog](https://zendesk.atlassian.net/jira/software/projects/HIB/boards/2167/backlog)
+
+## What do we own?
+
+See [Hibiscus Ownership](https://zendesk.atlassian.net/wiki/spaces/ENG/pages/4756865758/Hibiscus+Ownership) in Confluence for more details
+
+- Agent Workspace Composer
+- Non Agent Workspace Composer
+
+## Team Member Resources
 
 * [Starting Off](/starting-off.md)
 * [Grooming & Estimation Guide](/estimation.md)
@@ -37,3 +66,7 @@ Start with some basic things all Hibiscus devs should read and know about our te
 * [patch deploys for Lotus](https://github.com/zendesk/zendesk_console/wiki#somethings-broken)
 * [patch deploys for Classic](https://zendesk.atlassian.net/wiki/display/ENG/Classic+Production+Patch+Process)
 * [How to use measure events using datadog in Lotus](https://github.com/zendesk/hibiscus/blob/master/datadog-metrics.md)
+
+## Get in Touch
+
+Reach out to us with questions through Slack: #ask-orchid
