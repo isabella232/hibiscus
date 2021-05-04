@@ -12,5 +12,7 @@
 10. Pets are enouraged to attend standups via Zoom whenever possible.
 
 ### Process Agreement
-1. If a feature has acceptance criteria, QA should review and +1 on github.
-2. If a feature has visual changes, design should review and +1 on github.
+1. Every PR should be review by Hibiscus and have a +1 on github.
+2. Every PR which has dependence on other teams should be review and have a +1 on github from each dependent team.
+3. If a feature has acceptance criteria, QA should review and +1 on github.
+4. If a feature has visual changes, design should review and +1 on github.
