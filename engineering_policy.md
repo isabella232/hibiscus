@@ -29,6 +29,8 @@ Deploying Code
 -   We always deploy with a buddy
 -   Make sure you know how to roll back your changes if something goes wrong.
 -   Join #lotus-deploys and #classic-deploys for more information
+-   Monitor for any error spikers after deplyment
+-   Do a post deployment verification for our changes on production enviornment.
 
 [Arturos](https://zendesk.atlassian.net/wiki/spaces/ENG/pages/271490944/Feature+Flags+Arturo) (aka Feature Flags)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -47,9 +49,11 @@ We generally use Arturos for any new features that we're releasing to customers,
 
 ### Rollout
 
+-   Use the Canary pod deployment and validation before rolling out any big change.
 -   When you're ready to roll out your arturo, consult with our PM for a rollout plan and let the team know so that we can watch out for any issues that may arise. Rollouts can last anywhere between a day (bumping up the % hour by hour for small, low-risk changes) to a week or even longer (for new, heavily used, or high-risk changes).
 -   Remember to switch your arturo to General Availability (GA) in staging before rolling it out in production
 -   We also use arturos for Early Access Programs (EAPs)
+-   
 
 On-Call
 ----------------------------------------------------------------------------
