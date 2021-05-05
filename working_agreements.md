@@ -12,8 +12,8 @@
 10. Pets are enouraged to attend standups via Zoom whenever possible.
 
 ### Process Agreement
-1. Every PR should be review by Hibiscus and have a +1 on github.
-2. Every PR which has dependence on other teams should be review and have a +1 on github from each dependent team.
-3. If a feature has acceptance criteria, QA should review and +1 on github.
-4. If a feature has visual changes, design should review and +1 on github.
-5. Every PR should have minimum set of automation and unit tests.
+1. Every PR should have minimum set of automation and unit tests for a +1 on github.
+2. Every PR should be review by Hibiscus and have a +1 on github.
+3. Every PR which has dependence on other teams should be review and have a +1 on github from each dependent team.
+4. If a feature has acceptance criteria, QA should review and +1 on github.
+5. If a feature has visual changes, design should review and +1 on github.
