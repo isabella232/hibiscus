@@ -11,9 +11,10 @@
 9. If possible, respond to DMs/@-mentions within an hour. Other teams should see replies to their comments in #eng-hibiscus-team within 24 hours.
 10. Pets are enouraged to attend standups via Zoom whenever possible.
 
-### Process Agreement
-1. Every PR should have automation and unit tests for a +1 on github.
-2. Every PR should be review by Hibiscus and have a +1 on github.
-3. Every PR which has dependence on other teams should be review and have a +1 on github from each dependent team.
-4. If a feature has acceptance criteria, QA should review and +1 on github.
-5. If a feature has visual changes, design should review and +1 on github.
+### PR Review Agreement
+1. Every PR should have a risk assesment before its ready for review.
+2. Every PR should have automation and unit tests for a +1 on github.
+3. Every PR should be review by Hibiscus and have a +1 on github.
+4. Every PR which has dependence on other teams should be review and have a +1 on github from each dependent team.
+5. If a feature has acceptance criteria, QA should review and +1 on github.
+6. If a feature has visual changes, design should review and +1 on github.
