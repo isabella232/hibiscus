@@ -43,7 +43,7 @@ See [Hibiscus Ownership](https://zendesk.atlassian.net/wiki/spaces/ENG/pages/475
 
 * [Starting Off](/starting-off.md)
 * [Grooming & Estimation Guide](/estimation.md)
-* [Interview Guide](https://docs.google.com/document/d/1505DOQ24g5Y-tiBK3sjCmgRzkJQMe35cnDbvNL7UE5w/edit?usp=sharing)
+* [Interview Guide](https://zendesk.atlassian.net/wiki/spaces/ENG/pages/595330493/Orchid+Hibiscus+Iris+Box+Office+Kookaburra+Libretto+Icarus+Vortex+Vinyl+Interview+Process)
 * [how we interview](/interview_guide.md)
 * [Documenting your Components](/documenting-components.md)
 * [Writing Good Code](/writing-good-code.md)
