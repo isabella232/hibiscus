@@ -69,4 +69,4 @@ See [Hibiscus Ownership](https://zendesk.atlassian.net/wiki/spaces/ENG/pages/475
 
 ## Get in Touch
 
-Reach out to us with questions through Slack: #ask-orchid
+Reach out to us with questions through Slack: #ask-hibiscus
