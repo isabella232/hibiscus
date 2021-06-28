@@ -25,6 +25,7 @@ Start with some basic things all Hibiscus devs should read and know about our te
 | Will Slotterback  | Software Engineer |
 | Valentin Cekov    | Software Engineer |
 | Vinson Chen       | Software Engineer |
+| Rui Pang          | Test Engineer     |
 
 
 ## What are we working on?
