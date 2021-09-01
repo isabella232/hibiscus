@@ -1,4 +1,4 @@
-![Hibiscus](images/hibiscus - white@2x.png)
+<img src="https://github.com/zendesk/hibiscus/blob/master/images/hibiscus%20-%20white%402x.png" width="200" height="200">
 
 # Hibiscus
 Team repo for [team](https://github.com/orgs/zendesk/teams/hibiscus/members)
@@ -21,10 +21,8 @@ Start with some basic things all Hibiscus devs should read and know about our te
 | Amy Lee           | Product Manager   |
 | Nimisha Doongarwal| Team Lead         |
 | Jeff Michael      | Test Engineer     |
-| Deepti Buchi      | Software Engineer |
 | Will Slotterback  | Software Engineer |
 | Valentin Cekov    | Software Engineer |
-| Vinson Chen       | Software Engineer |
 | Rui Pang          | Test Engineer     |
 
 
