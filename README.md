@@ -1,7 +1,16 @@
-<img src="https://github.com/zendesk/hibiscus/blob/master/images/hibiscus%20-%20white%402x.png" width="200" height="200">
+<p align="center">
+  <img src="https://github.com/zendesk/hibiscus/blob/master/images/hibiscus%20-%20white%402x.png" width="200" height="200">
+</p>
 
 # Hibiscus
-Team repo for [team](https://github.com/orgs/zendesk/teams/hibiscus/members)
+⚠️ Our documentation has moved! ⚠️
+
+You can find our current docs on our [confluence page](https://zendesk.atlassian.net/wiki/spaces/Hib/overview?homepageId=4834726662).
+The docs below are preserved for now as we're still transitioning documentation over to confluence.
+
+# Old Documentation
+
+Github [team](https://github.com/orgs/zendesk/teams/hibiscus/members)
 
 * [Projects we contribute to are listed here](https://github.com/orgs/zendesk/teams/hibiscus/repositories)
 * [Our current work is tracked here](https://zendesk.atlassian.net/secure/RapidBoard.jspa)
